@@ -43,18 +43,18 @@ global music_path_3
 global music_path_4
 global music_path_5
 
-music_path = r"D:\Repo\Python\Song\song1.mp3"
+music_path = r"Song\song1.mp3"
 pygame.mixer.music.load(music_path)
 pygame.mixer.music.play()
 pygame.mixer.music.pause()
 
-music_path_2 = r"D:\Repo\Python\Song\song2.mp3"
+music_path_2 = r"Song\song2.mp3"
 
-music_path_3 = r"D:\Repo\Python\Song\song3.mp3"
+music_path_3 = r"Song\song3.mp3"
 
-music_path_4 = r"D:\Repo\Python\Song\song4.mp3"
+music_path_4 = r"Song\song4.mp3"
 
-music_path_5 = r"D:\Repo\Python\Song\song5.mp3"
+music_path_5 = r"Song\song5.mp3"
 
 
 global audio1
